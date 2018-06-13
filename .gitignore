@@ -1,0 +1,6 @@
+#Latex stuff
+*.aux
+*.log
+*.png
+*.out
+*.toc
